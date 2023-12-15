@@ -23,3 +23,13 @@ In the context of image processing and computer vision, a contour can be defined
 We can adjust parameters in the contour detection process to find specific features in an image. For example, we can adjust the threshold value in the cv.threshold() function, the contour retrieval mode in the cv.findContours() function, and the contour approximation method in the cv.findContours() function. By adjusting these parameters, we can fine-tune the contour detection process to explore different outputs.
 
 ### Displaying the Image
+
+## REFERENCES
+https://github.com/rbg-research/Floor-Plan-Detection1
+
+https://github.com/zcemycl/TF2DeepFloorplan
+
+https://www.mdpi.com/2076-3417/11/23/11174
+
+https://ivanovich.us/blog/2019/12/how-heatmap-works-3/
+
